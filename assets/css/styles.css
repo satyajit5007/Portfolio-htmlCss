@@ -181,7 +181,15 @@ img {
 
 /*=============== HOME ===============*/
 /*===== PERFIL =====*/
-
+.perfil{
+  position: relative;
+  background-color: var(--conic-gradient);
+  height: 415px;
+  border-radius: 2rem;
+  padding: 1rem;
+  display: grid;
+  overflow: hidden;
+}
 
 /*===== INFO =====*/
 
